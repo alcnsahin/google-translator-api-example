@@ -1,0 +1,22 @@
+{
+  "name": "google-translator-api-example",
+  "version": "1.0.0",
+  "description": "This example shows that how to translate html contents to another language using Google Translator Api.",
+  "main": "google-translator-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcnsahin/google-translator-api-example.git"
+  },
+  "author": "Alican Sahin | alcnsahin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alcnsahin/google-translator-api-example/issues"
+  },
+  "homepage": "https://github.com/alcnsahin/google-translator-api-example#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^4.1.3"
+  }
+}
